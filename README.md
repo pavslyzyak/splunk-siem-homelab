@@ -1,4 +1,7 @@
 # splunk-siem-homelab
+
+Windows-based SIEM homelab focused on authentication monitoring, process creation analysis, PowerShell detection, and Windows event log investigation using Splunk Enterprise.
+
 ## Project Overview
 
 This project demonstrates the deployment and configuration of Splunk Enterprise for Windows security monitoring and log analysis within a local homelab environment.
